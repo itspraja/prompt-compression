@@ -1,0 +1,49 @@
+text,method,keep,orig_len,comp_len,sim,compressed
+Summarize: The quick brown fox jumped over the lazy dog...,pagerank,0.9,10,11,0.9915785193443298,Summarize : The quick brown fox jumped over the lazy dog
+Summarize: The quick brown fox jumped over the lazy dog...,pagerank,0.75,10,9,0.9485381245613098,Summarize : The fox jumped over the lazy dog
+Summarize: The quick brown fox jumped over the lazy dog...,pagerank,0.5,10,6,0.8445450663566589,Summarize : fox jumped over dog
+Summarize: The quick brown fox jumped over the lazy dog...,pagerank,0.25,10,3,0.6997457146644592,fox jumped dog
+Summarize: The quick brown fox jumped over the lazy dog...,degree,0.9,10,11,0.9915785193443298,Summarize : The quick brown fox jumped over the lazy dog
+Summarize: The quick brown fox jumped over the lazy dog...,degree,0.75,10,9,0.9218236804008484,Summarize : The quick brown fox jumped over dog
+Summarize: The quick brown fox jumped over the lazy dog...,degree,0.5,10,6,0.8445450663566589,Summarize : fox jumped over dog
+Summarize: The quick brown fox jumped over the lazy dog...,degree,0.25,10,3,0.6997457146644592,fox jumped dog
+Summarize: The quick brown fox jumped over the lazy dog...,betweenness,0.9,10,11,0.9915785193443298,Summarize : The quick brown fox jumped over the lazy dog
+Summarize: The quick brown fox jumped over the lazy dog...,betweenness,0.75,10,9,0.9218236804008484,Summarize : The quick brown fox jumped over dog
+Summarize: The quick brown fox jumped over the lazy dog...,betweenness,0.5,10,6,0.8445450663566589,Summarize : fox jumped over dog
+Summarize: The quick brown fox jumped over the lazy dog...,betweenness,0.25,10,3,0.6809431314468384,fox jumped over
+Summarize: The quick brown fox jumped over the lazy dog...,hybrid,0.9,10,11,0.9915785193443298,Summarize : The quick brown fox jumped over the lazy dog
+Summarize: The quick brown fox jumped over the lazy dog...,hybrid,0.75,10,9,0.9218236804008484,Summarize : The quick brown fox jumped over dog
+Summarize: The quick brown fox jumped over the lazy dog...,hybrid,0.5,10,6,0.8445450663566589,Summarize : fox jumped over dog
+Summarize: The quick brown fox jumped over the lazy dog...,hybrid,0.25,10,3,0.6997457146644592,fox jumped dog
+Explain: Breadth-first search on an undirected graph with a short example.,pagerank,0.9,11,14,0.980495035648346,Explain : Breadth - first search on an graph with a short example .
+Explain: Breadth-first search on an undirected graph with a short example.,pagerank,0.75,11,12,0.9637956619262695,Explain : Breadth - first search on graph with a short example
+Explain: Breadth-first search on an undirected graph with a short example.,pagerank,0.5,11,8,0.9352263808250427,Explain Breadth first search on graph with example
+Explain: Breadth-first search on an undirected graph with a short example.,pagerank,0.25,11,4,0.7165595293045044,Explain search graph example
+Explain: Breadth-first search on an undirected graph with a short example.,degree,0.9,11,14,0.986311137676239,Explain : Breadth - first search on an undirected graph with a short example
+Explain: Breadth-first search on an undirected graph with a short example.,degree,0.75,11,12,0.9801072478294373,Explain : Breadth - first search on an undirected graph with example
+Explain: Breadth-first search on an undirected graph with a short example.,degree,0.5,11,8,0.9352263808250427,Explain Breadth first search on graph with example
+Explain: Breadth-first search on an undirected graph with a short example.,degree,0.25,11,4,0.7165595293045044,Explain search graph example
+Explain: Breadth-first search on an undirected graph with a short example.,betweenness,0.9,11,14,0.986311137676239,Explain : Breadth - first search on an undirected graph with a short example
+Explain: Breadth-first search on an undirected graph with a short example.,betweenness,0.75,11,12,0.9801072478294373,Explain : Breadth - first search on an undirected graph with example
+Explain: Breadth-first search on an undirected graph with a short example.,betweenness,0.5,11,8,0.9352263808250427,Explain Breadth first search on graph with example
+Explain: Breadth-first search on an undirected graph with a short example.,betweenness,0.25,11,4,0.627839207649231,search on graph with
+Explain: Breadth-first search on an undirected graph with a short example.,hybrid,0.9,11,14,0.986311137676239,Explain : Breadth - first search on an undirected graph with a short example
+Explain: Breadth-first search on an undirected graph with a short example.,hybrid,0.75,11,12,0.9680692553520203,Explain : Breadth - first search on an graph with a example
+Explain: Breadth-first search on an undirected graph with a short example.,hybrid,0.5,11,8,0.9352263808250427,Explain Breadth first search on graph with example
+Explain: Breadth-first search on an undirected graph with a short example.,hybrid,0.25,11,4,0.7165595293045044,Explain search graph example
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,pagerank,0.9,12,14,0.9927597045898438,Write an abstract for paper about ' Prompt Compression via Graph Pruning ' .
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,pagerank,0.75,12,12,0.7958016991615295,Write an abstract for paper about Compression via Graph Pruning ' .
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,pagerank,0.5,12,8,0.7192562818527222,Write abstract for paper about Compression via Pruning
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,pagerank,0.25,12,4,0.6118243336677551,Write abstract about Compression
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,degree,0.9,12,14,0.978045642375946,Write an abstract for a paper about ' Prompt Compression via Graph Pruning '
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,degree,0.75,12,12,0.8895671963691711,Write an abstract for a paper about ' Prompt Compression via Pruning
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,degree,0.5,12,8,0.7192562818527222,Write abstract for paper about Compression via Pruning
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,degree,0.25,12,4,0.42311739921569824,Write abstract paper about
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,betweenness,0.9,12,14,0.978045642375946,Write an abstract for a paper about ' Prompt Compression via Graph Pruning '
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,betweenness,0.75,12,12,0.8895671963691711,Write an abstract for a paper about ' Prompt Compression via Pruning
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,betweenness,0.5,12,8,0.7192562818527222,Write abstract for paper about Compression via Pruning
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,betweenness,0.25,12,4,0.4309936761856079,abstract for paper about
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,hybrid,0.9,12,14,0.978045642375946,Write an abstract for a paper about ' Prompt Compression via Graph Pruning '
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,hybrid,0.75,12,12,0.7950376272201538,Write an abstract for a paper about ' Compression via Graph Pruning
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,hybrid,0.5,12,8,0.7192562818527222,Write abstract for paper about Compression via Pruning
+Write an abstract for a paper about 'Prompt Compression via Graph Pruning'.,hybrid,0.25,12,4,0.42311739921569824,Write abstract paper about
