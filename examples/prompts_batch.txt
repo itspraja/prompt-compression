@@ -1,0 +1,50 @@
+Summarize the following passage: Climate change is accelerating due to rising greenhouse gases, leading to extreme weather events across continents.
+Summarize: The history of computing began with mechanical devices, but modern progress is driven by semiconductors and parallel architectures.
+Summarize this: India’s Chandrayaan-3 mission successfully demonstrated soft landing and rover operations on the lunar south pole.
+Summarize the paragraph: Artificial Intelligence is becoming central in fields like healthcare, education, and scientific research.
+Provide a concise summary: The stock market saw increased volatility after global inflation warnings.
+Summarize the report: Urban populations are expanding rapidly, stressing water and transport infrastructure.
+Write a short summary: Our experiment evaluated five pruning methods and found hybrid scoring most effective.
+Summarize: The film explores themes of identity, memory, and psychological conflict.
+Summarize briefly: GPUs outperform CPUs in deep learning due to massive parallelism and optimized matrix operations.
+Write a summary: Renewable energy investments grew significantly this year due to policy incentives.
+Explain why BFS guarantees the shortest path in an unweighted graph.
+How does K-means++ improve centroid initialization compared to random selection?
+Why is PageRank robust against manipulation?
+Explain the difference between supervised and unsupervised learning.
+What makes dynamic programming suitable for overlapping subproblems?
+Why do transformers outperform RNNs on long sequences?
+Explain why an Eulerian circuit exists only when every vertex has even degree.
+Why is cosine similarity useful in text embeddings?
+Explain why distributed systems use consensus protocols.
+Why is sorting required before applying interval scheduling algorithms?
+Define “knowledge graph” with an example.
+Define “graph sparsification.”
+Define “semantic similarity” in NLP.
+What is a “dependency parse”?
+Define “attention mechanism” in transformers.
+Rewrite this sentence in simpler words: “The complexity of the problem lies not in its formulation but in its constraints.”
+Convert the following into bullet points: Neural networks require data, compute, and optimization strategies.
+Generate a short abstract about neural text compression.
+Explain dependency parsing as if teaching a 12-year-old.
+Give 5 applications of knowledge graphs.
+Convert this into one concise sentence: The experiment evaluates multiple graph pruning strategies across various datasets.
+Rewrite in formal academic tone: “We ran the model and it did pretty well.”
+Provide 3 examples of stream processing in real-time analytics.
+Explain “token importance scoring” in one paragraph.
+Convert the text into active voice: “The results are being analyzed by the research team.”
+Explain why GPUs are preferred for HPC workloads.
+Describe the architecture of a distributed graph processing system.
+Why is PageRank used to measure importance in network nodes?
+How does GraphSAGE perform inductive node representation learning?
+Explain MapReduce with a simple example.
+Describe the role of partitioning in large-scale graph analytics.
+Why are knowledge graphs useful for semantic search?
+Explain the difference between edge cuts and vertex cuts.
+How does stream processing differ from batch processing?
+Describe why HPC pipelines rely on parallel I/O.
+Write a short motivational paragraph for students preparing for exams.
+Describe a peaceful nighttime scene in 2–3 sentences.
+Create a fictional story about an AI system discovering emotions.
+Write a poem about research struggles.
+Describe a futuristic city powered entirely by quantum computers.
