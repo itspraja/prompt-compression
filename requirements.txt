@@ -1,0 +1,15 @@
+spacy
+networkx
+sentence-transformers
+transformers
+torch
+scipy
+numpy
+scikit-learn
+pandas
+tqdm
+matplotlib
+bert-score
+streamlit
+python-dotenv
+requests
