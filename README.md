@@ -2,14 +2,12 @@
 
 ### A Graph-Theoretic Framework for Efficient Prompt Reduction in LLMs
 
----
 
 ## Overview
 
 Large Language Models (LLMs) incur significant computational and financial cost when processing long prompts. Most existing compression techniques use heuristic selection or truncation, often at the expense of essential semantic information.
 This project presents a graph-based compression pipeline that constructs syntactic dependency graphs from prompts, identifies important tokens using centrality and sparsification techniques, prunes low-impact components, and reconstructs a shorter prompt with minimal loss of meaning. The objective is to reduce inference cost while maintaining high semantic fidelity.
 
----
 
 ## Key Features
 
@@ -21,7 +19,6 @@ This project presents a graph-based compression pipeline that constructs syntact
 * Reproducible experimental pipeline with CSV logging
 * CLI interface and Streamlit-based interactive dashboard
 
----
 
 ## Repository Structure
 
@@ -50,8 +47,6 @@ This project presents a graph-based compression pipeline that constructs syntact
 └── README.md
 ```
 
----
-
 ## Installation
 
 Clone and initialize the environment:
@@ -70,7 +65,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
 
 ## Usage
 
@@ -100,7 +94,6 @@ streamlit run src/streamlit_app.py
 
 The dashboard provides visualization of dependency graphs, token importance, compression–quality trade-offs, and summary statistics.
 
----
 
 ## Methodology
 
@@ -119,7 +112,6 @@ The dashboard provides visualization of dependency graphs, token importance, com
 5. **Evaluation**
    Outputs of the original and compressed prompts are compared using ROUGE, BLEU, embedding similarity (Sentence-BERT), and compression ratio.
 
----
 
 ## Datasets and Metrics
 
@@ -139,7 +131,6 @@ The dashboard provides visualization of dependency graphs, token importance, com
 
 All experiments are logged in `experiments.csv` and visual outputs are stored in the `outputs/` directory.
 
----
 
 ## Expected Outcomes
 
@@ -149,7 +140,6 @@ All experiments are logged in `experiments.csv` and visual outputs are stored in
 * Reduction in inference cost for long-context LLM tasks
 * A repeatable and lightweight pipeline suitable for research and production settings
 
----
 
 ## Roadmap
 
@@ -159,7 +149,6 @@ All experiments are logged in `experiments.csv` and visual outputs are stored in
 * Language-agnostic dependency parsing
 * Multi-graph fusion for context-aware compression
 
----
 
 ## Citation
 
@@ -171,17 +160,13 @@ All experiments are logged in `experiments.csv` and visual outputs are stored in
 }
 ```
 
----
-
 ## Contributing
 
 Contributions, suggestions, and extensions are welcome.
 Please open an issue or submit a pull request for discussion.
 
----
 
 ## License
 
 This project is released under the MIT License.
 
----
