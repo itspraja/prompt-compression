@@ -57,8 +57,8 @@ This project presents a graph-based compression pipeline that constructs syntact
 Clone and initialize the environment:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/itspraja/prompt-compression.git
+cd prompt-comression
 bash setup_env.sh
 ```
 
